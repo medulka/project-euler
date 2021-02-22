@@ -165,7 +165,7 @@ def main():
     t1 = time.time()
     result = sum_of_all_numbers(input)[0:10]
     print(result)
-    print("time:", f'{(time.time() - t1):.5f}', "s")
+    print(f'time: {(time.time() - t1):.5f} s')
 
 
 if __name__ == '__main__':

@@ -1,3 +1,5 @@
 __pycache__/
 .DS_Store
-
+.combinatorics.pdf
+ProjectEuler.py
+notes.txt
