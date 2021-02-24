@@ -19,8 +19,8 @@ def sum_of_digits(n):
 def main():
     n = 1000
     t1 = time.time()
-    print(f"the sum of digits: {sum(n)}")
-    pprint(f"time: {(time.time() - t1):.5f}s")
+    print(f"the sum of digits: {sum_of_digits(n)}")
+    print(f"time: {(time.time() - t1):.5f}s")
 
 
 if __name__ == '__main__':

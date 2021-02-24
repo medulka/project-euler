@@ -127,7 +127,7 @@ def main():
     t1 = time.time()
     result = sum_of_big_numbers(input)
     print(result)
-    print("time:", time.time() - t1, "s")
+    print(f'time: {(time.time() - t1):.5f} s')
 
 
 if __name__ == '__main__':
