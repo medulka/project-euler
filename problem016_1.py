@@ -2,6 +2,7 @@
 """
 Project Euler
 Problems 016
+Solution 1 
 created on 08.02.2021
 by medulka
 """
