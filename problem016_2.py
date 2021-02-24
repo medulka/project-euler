@@ -4,6 +4,7 @@
 inspired by:
     Project Euler
     Problems 016
+    Solution 2
     https://projecteuler.net/problem=16
 created on 08.02.2021
 by medulka
