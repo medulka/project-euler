@@ -1,3 +1,5 @@
 # project-euler
 
-Haniccin project euler
+An example of the Hanka's project in Python.
+
+Variations on how to perform aritmetic operations with "big numbers" without using the bignum format.
